@@ -1,35 +1,35 @@
-# 👋 Hello, I'm Harshil Amin
+# 👋 Hi, I'm Harshil Amin
 
-🎓 Final Year B.Tech IT Student at NMIMS MPSTME  
-🤖 Aspiring AI/ML Engineer & Applied Research Enthusiast  
-💡 Focused on Machine Learning, Computer Vision, Generative AI & Cybersecurity  
-
----
-
-## 🧠 Currently Working On:
-- 🚀 **Malware Detection using Hybrid ML** (RF + LGBM + DNN)
-- 📊 **100 Days of Python Coding** (Python mastery and automation)
-- 🛰️ Planned: **Autonomous Drone Navigation with CV**
+🎓 B.Tech IT Student @ NMIMS MPSTME (3rd Year)  
+🤖 Aspiring AI/ML Engineer | Applied Research Enthusiast  
+🔍 Interests: Machine Learning, Computer Vision, Generative AI, Cybersecurity  
 
 ---
 
-## 🛠️ Tech Stack
-`Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `LightGBM` `Matplotlib`  
-`Jupyter` `Git/GitHub` `HTML/CSS` `Linux`  
+## 🚧 Ongoing Projects
+- 🛡 **Hybrid Malware Detection Model** – Combining RF, LightGBM & DNN  
+- 💯 **100 Days of Python** – Mastering Python for automation & ML  
+- 🚁 *Planned:* Autonomous Drone Navigation with Real-time CV  
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight)
+## 🧰 Tech Stack
+`Python` `NumPy` `Pandas` `Scikit-learn` `TensorFlow` `LightGBM` `Matplotlib`  
+`Jupyter` `Git & GitHub` `Linux` `HTML/CSS`  
 
 ---
 
-## 📫 Let's Connect
-📧 Email: harshilaminjijs@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/harshil-amin-93943b1b0
-🌐 Portfolio: Coming Soon!
+## 📊 GitHub Stats
+![Harshil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight)
 
 ---
 
-> *“Stay curious, keep learning, and never stop building.”*
+## 📬 Connect With Me
+📧 Email: [harshilaminjijs@gmail.com](mailto:harshilaminjijs@gmail.com)  
+💼 LinkedIn: [Harshil Amin](https://www.linkedin.com/in/harshil-amin-93943b1b0)  
+🌐 Portfolio: [harshil7426.github.io](https://harshil7426.github.io/harshil-portfolio/)
+
+---
+
+> _"Stay curious. Keep learning. Never stop building."_
