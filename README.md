@@ -6,10 +6,10 @@
 
 ---
 
-## 🚧 Ongoing Projects
-- 🛡 **Hybrid Malware Detection Model** – Combining RF, LightGBM & DNN  
-- 💯 **100 Days of Python** – Mastering Python for automation & ML  
-- 🚁 *Planned:* Autonomous Drone Navigation with Real-time CV  
+## 🧠 Currently Working On:
+- 🚀 **Malware Detection using Hybrid ML** (RF + LGBM + DNN)
+- 📊 **100 Days of Python Coding** (Python mastery and automation)
+- 🛰️ Planned: **Autonomous Drone Navigation with CV**
 
 ---
 
