@@ -28,8 +28,6 @@
 ## 📬 Connect With Me
 📧 Email: [harshilaminjijs@gmail.com](mailto:harshilaminjijs@gmail.com)  
 💼 LinkedIn: [Harshil Amin](https://www.linkedin.com/in/harshil-amin-93943b1b0)  
-🌐 Portfolio: [harshil7426.github.io](https://harshil7426.github.io/harshil-portfolio/)
-
 ---
 
 > _"Stay curious. Keep learning. Never stop building."_
