@@ -2,13 +2,12 @@
 
 🎓 B.Tech IT Student @ NMIMS MPSTME (3rd Year)  
 🤖 Aspiring AI/ML Engineer | Applied Research Enthusiast  
-🔍 Interests: Machine Learning, Computer Vision, Generative AI, Cybersecurity  
+🔍 Interests: Machine Learning, Computer Vision, Generative AI
 
 ---
 
 ## 🧠 Currently Working On:
 - 🚀 **Malware Detection using Hybrid ML** (RF + LGBM + DNN)
-- 📊 **100 Days of Python Coding** (Python mastery and automation)
 - 🛰️ Planned: **Autonomous Drone Navigation with CV**
 
 ---
