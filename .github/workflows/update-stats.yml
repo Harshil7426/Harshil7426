@@ -2,7 +2,7 @@ name: Update GitHub Stats Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -20,11 +20,11 @@ jobs:
         run: |
           mkdir -p assets
 
-          curl -L "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" -o assets/stats.svg
+          curl -L "https://github-readme-stats.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" -o assets/stats.svg
 
           curl -L "https://streak-stats.demolab.com?user=Harshil7426&theme=tokyonight&hide_border=true" -o assets/streak.svg
 
-          curl -L "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" -o assets/top-langs.svg
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" -o assets/top-langs.svg
 
       - name: Commit and push changes
         run: |

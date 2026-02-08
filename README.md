@@ -88,17 +88,13 @@
 
 <div align="center">
 
-<img width="420" src="assets/stats.svg" />
+<img width="420" src="https://raw.githubusercontent.com/Harshil7426/Harshil7426/main/assets/stats.svg" />
+<img width="420" src="https://raw.githubusercontent.com/Harshil7426/Harshil7426/main/assets/streak.svg" />
+<img width="360" src="https://raw.githubusercontent.com/Harshil7426/Harshil7426/main/assets/top-langs.svg" />
 
-<br/><br/>
-
-<img width="420" src="assets/streak.svg" />
-
-<br/><br/>
-
-<img width="360" src="assets/top-langs.svg" />
 
 </div>
+
 
 
 <br/>
