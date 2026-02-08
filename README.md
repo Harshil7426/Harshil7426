@@ -56,22 +56,16 @@ Building things • Learning fast • Staying consistent
 ## 📊 Live GitHub Dashboard
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
-
 ---
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Harshil7426&theme=radical&no-frame=true&margin-w=15&column=4" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshil7426&theme=radical&no-frame=true&margin-w=15&column=4" />
 </div>
+
 
 ---
 
