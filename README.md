@@ -82,7 +82,6 @@
 
 <br/>
 <hr/>
-
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <br/>
@@ -93,7 +92,7 @@
 
 <br/><br/>
 
-<img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshil7426&theme=tokyonight&hide_border=true" />
+<img width="420" src="https://streak-stats.demolab.com?user=Harshil7426&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
