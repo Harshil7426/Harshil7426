@@ -16,17 +16,17 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Download Stats Cards
+      - name: Download cards
         run: |
           mkdir -p assets
 
-          curl -L "https://github-readme-stats.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" -o assets/stats.svg
-
           curl -L "https://streak-stats.demolab.com?user=Harshil7426&theme=tokyonight&hide_border=true" -o assets/streak.svg
 
-          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" -o assets/top-langs.svg
+          curl -L "https://github-readme-stats-one-bice.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" -o assets/stats.svg
 
-      - name: Commit and push changes
+          curl -L "https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" -o assets/top-langs.svg
+
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
