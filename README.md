@@ -88,17 +88,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="420" src="assets/stats.svg" />
 
 <br/><br/>
 
-<img width="420" src="https://streak-stats.demolab.com?user=Harshil7426&theme=tokyonight&hide_border=true" />
+<img width="420" src="assets/streak.svg" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="360" src="assets/top-langs.svg" />
 
 </div>
+
 
 <br/>
 <hr/>

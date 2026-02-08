@@ -1,0 +1,36 @@
+name: Update GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download Stats Cards
+        run: |
+          mkdir -p assets
+
+          curl -L "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" -o assets/stats.svg
+
+          curl -L "https://streak-stats.demolab.com?user=Harshil7426&theme=tokyonight&hide_border=true" -o assets/streak.svg
+
+          curl -L "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" -o assets/top-langs.svg
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add assets/*.svg
+          git commit -m "Update GitHub stats cards" || exit 0
+          git push
