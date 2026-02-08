@@ -12,7 +12,7 @@
 
 ### Harshil Amin  
 🎓 B.Tech IT @ NMIMS MPSTME (3rd Year)  
-Building ML projects • Exploring Computer Vision • Learning by doing  
+Building things • Learning fast • Staying consistent  
 
 </div>
 
@@ -21,25 +21,10 @@ Building ML projects • Exploring Computer Vision • Learning by doing
 ## 🧠 Current Focus
 
 ```txt
-[✓] Malware Detection (Hybrid ML)
-[ ] Autonomous Drone Navigation (CV)  → next build
-[ ] More real-world projects → always
+[✓] XAI-guided LLM Hallucination Detection & Mitigation
+[ ] Computer Vision experiments (ongoing)
+[ ] More builds → more learning
 ````
-
----
-
-## ⚙️ Projects I’m working on
-
-### 🛡 Malware Detection using Hybrid ML
-
-* Static malware analysis
-* Hybrid approach: Random Forest + LightGBM + DNN
-* Goal: accurate + stable predictions
-
-### 🛰 Planned: Autonomous Drone Navigation (CV)
-
-* Real-time vision pipeline
-* Object detection + navigation logic
 
 ---
 
@@ -87,7 +72,7 @@ Matplotlib | Git | GitHub | Linux | Jupyter | HTML/CSS
 ## 🎯 Progress (dynamic look)
 
 ```txt
-ML Projects        ███████████░░░░░░░░  60%
+Machine Learning   ███████████░░░░░░░░  60%
 Deep Learning      █████████░░░░░░░░░░  50%
 Computer Vision    ███████░░░░░░░░░░░░  35%
 Consistency        ████████████░░░░░░░  70%
