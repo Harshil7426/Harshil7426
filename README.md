@@ -53,13 +53,28 @@ Building things • Learning fast • Staying consistent
 
 ---
 
-#📊 Live GitHub Dashboard
-<div align="center"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHarshil7426%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" /> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHarshil7426%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26langs_count%3D8" /> </div>
+## 📊 Live GitHub Dashboard
 
-🏆 GitHub Trophies
-<div align="center"> <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DHarshil7426%26theme%3Dradical%26no-frame%3Dtrue%26margin-w%3D15%26column%3D4" /> </div>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harshil7426&theme=radical&no-frame=true&margin-w=15&column=4" />
+
+</div>
+
+---
+
 
 ## 🔥 Contribution Graph (Dynamic)
 
