@@ -1,42 +1,53 @@
-# 👋 Hi, I'm Harshil Amin
+# Hi, I’m Harshil Amin 👋
 
-🎓 B.Tech IT Student @ NMIMS MPSTME (3rd Year)  
-🤖 Aspiring AI/ML Engineer | Applied Research Enthusiast  
-🔍 Interests: Machine Learning, Computer Vision, Generative AI
-
----
-
-## 🧠 Currently Working On:
-- 🚀 **Malware Detection using Hybrid ML** (RF + LGBM + DNN)
-- 🛰️ Planned: **Autonomous Drone Navigation with CV**
+I’m a **3rd-year B.Tech IT student at NMIMS MPSTME**.  
+I enjoy building practical ML projects, experimenting with deep learning, and working on ideas that feel “real-world”.
 
 ---
 
-## 🧰 Tech Stack
-`Python` `NumPy` `Pandas` `Scikit-learn` `TensorFlow` `LightGBM` `Matplotlib`  
-`Jupyter` `Git & GitHub` `Linux` `HTML/CSS`  
+## What I’m working on right now 🧠
+- **Malware Detection using Hybrid ML**
+  - Random Forest + LightGBM + DNN (static malware analysis)
+- **Planning next**
+  - Autonomous drone navigation using Computer Vision
 
 ---
 
-## 📊 GitHub Stats
-![Harshil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight)  
+## Tech I use 🧰
+**ML / Data**
+- Python, NumPy, Pandas  
+- Scikit-learn, TensorFlow, LightGBM  
+- Matplotlib  
+
+**Tools**
+- Jupyter Notebook  
+- Git & GitHub  
+- Linux  
+- HTML/CSS  
+
+---
+
+## GitHub Highlights 📊
+![Harshil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight)
 
 ---
 
-## 🏆 GitHub Trophies
+## Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=Harshil7426&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-### 🔝 Top Contributed Repo
+## Contributions 🔝
 ![](https://github-contributor-stats.vercel.app/api?username=Harshil7426&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## 📬 Connect With Me
-📧 Email: [harshilaminjijs@gmail.com](mailto:harshilaminjijs@gmail.com)  
-💼 LinkedIn: [Harshil Amin](https://www.linkedin.com/in/harshil-amin-93943b1b0)  
+## Let’s connect 📬
+📧 Email: **harshilaminjijs@gmail.com**  
+💼 LinkedIn: **https://www.linkedin.com/in/harshil-amin-93943b1b0**
+
 ---
 
-> _"Stay curious. Keep learning. Never stop building."_
+> “Build small. Improve daily. Repeat.”
