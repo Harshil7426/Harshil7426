@@ -1,3 +1,4 @@
+<div align="center">
 
 ```
 
@@ -9,6 +10,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝
 
 ````
+</div>
 
 ### Harshil Amin  
 🎓 B.Tech IT @ NMIMS MPSTME (3rd Year)  
@@ -39,23 +41,12 @@ Matplotlib | Git | GitHub | Linux | Jupyter | HTML/CSS
 
 ## 📊 Live GitHub Dashboard (Dynamic)
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
+<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 ---
 
 ## 🏆 GitHub Trophies (Dynamic)
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Harshil7426&theme=radical&no-frame=true&margin-w=10" />
-
-</div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Harshil7426&theme=radical&no-frame=true&margin-w=10" /> </div>
 
 ---
 
@@ -71,12 +62,11 @@ Matplotlib | Git | GitHub | Linux | Jupyter | HTML/CSS
 
 ## 🎯 Progress (dynamic look)
 
-```txt
 Machine Learning   ███████████░░░░░░░░  60%
 Deep Learning      █████████░░░░░░░░░░  50%
 Computer Vision    ███████░░░░░░░░░░░░  35%
 Consistency        ████████████░░░░░░░  70%
-```
+
 
 ---
 
