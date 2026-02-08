@@ -29,22 +29,13 @@ Fun fact: <b>I like building projects that actually run, not just look good on p
 </div>
 
 <hr/>
-
 <h2 align="center">𝙏𝙀𝘾𝙃 𝙎𝙏𝘼𝘾𝙆</h2>
 
 <div align="center">
 
-<h3>Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,tensorflow,git,github,vscode,jupyter,linux,githubpages" />
 
 <br/><br/>
-
-<h3>Libraries & Frameworks</h3>
-
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-
-<br/>
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -53,19 +44,11 @@ Fun fact: <b>I like building projects that actually run, not just look good on p
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-<br/><br/>
-
-<h3>Tools & Platforms</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,githubpages" />
-
-<br/>
-
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
+
 
 
 
@@ -94,11 +77,10 @@ Fun fact: <b>I like building projects that actually run, not just look good on p
 
 <div align="center">
 
-![Stats](https://raw.githubusercontent.com/Harshil7426/Harshil7426/main/assets/stats.svg)
 
-![Streak](https://raw.githubusercontent.com/Harshil7426/Harshil7426/main/assets/streak.svg)
-
-![Top Langs](https://raw.githubusercontent.com/Harshil7426/Harshil7426/main/assets/top-langs.svg)
+<img width="420" src="https://raw.githubusercontent.com/Harshil7426/Harshil7426/main/assets/stats.svg" />
+<img width="420" src="https://raw.githubusercontent.com/Harshil7426/Harshil7426/main/assets/streak.svg" />
+<img width="360" src="https://raw.githubusercontent.com/Harshil7426/Harshil7426/main/assets/top-langs.svg" />
 
 </div>
 
