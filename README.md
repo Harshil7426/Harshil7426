@@ -1,93 +1,95 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Harshil7426.Harshil7426" />
 
-```
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harshil+Amin!;+AI%2FML+%7C+Computer+Vision+%7C+GenAI" />
+</h1>
 
-██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗██╗██╗
-██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██║██║
-███████║███████║██████╔╝███████╗███████║██║██║
-██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║██║██║
-██║  ██║██║  ██║██║  ██║███████║██║  ██║██║███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝
-
-````
-
-### Harshil Amin  
-🎓 B.Tech IT @ NMIMS MPSTME (3rd Year)  
-Building things • Learning fast • Staying consistent  
-
-</div>
-
----
-
-## 🧠 Current Focus
-
-```txt
-[✓] XAI-guided LLM Hallucination Detection & Mitigation
-[ ] Computer Vision experiments (ongoing)
-[ ] More builds → more learning
-````
-
----
-
-## 🧰 Toolbox
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2C8EBB?style=for-the-badge&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+<h3 align="center">B.Tech IT Student @ NMIMS MPSTME • 3rd Year</h3>
 
 <br/>
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+ 
+ 🔭 I’m currently working on <b>XAI-guided LLM Hallucination Detection & Mitigation</b>  
+ 🌱 I’m currently learning <b>Deep Learning + Research workflows</b>  
+ 💬 Ask me about <b>ML, malware detection, CV basics, Python</b>  
+ ⚡ Fun fact: <b>I like building projects that actually run, not just look good on paper</b>
 
 </div>
 
----
+<br/>
 
+<div align="center"> 
+  <a href="mailto:harshilaminjijs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/harshil-amin-93943b1b0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-## 🔥 Contribution Graph (Dynamic)
+<hr/>
+
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshil7426&theme=tokyo-night&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,linux,git,github,jupyter,html,css" />
+<br/>
 
 </div>
 
----
+<br/>
+<hr/>
 
-## 🎯 Progress (dynamic look)
-```
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-Machine Learning   ███████████░░░░░░░░  60%
-Deep Learning      █████████░░░░░░░░░░  50%
-Computer Vision    ███████░░░░░░░░░░░░  35%
-Consistency        ████████████░░░░░░░  70%
-```
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshil7426&theme=radical&no-frame=true&margin-w=15&column=4" />
+</div>
 
----
+<br/>
+<hr/>
 
-## 📬 Connect with me
+<h2 align="center">🔥 Contribution Graph</h2>
 
-📧 Email: [harshilaminjijs@gmail.com](mailto:harshilaminjijs@gmail.com)
-💼 LinkedIn: [https://www.linkedin.com/in/harshil-amin-93943b1b0](https://www.linkedin.com/in/harshil-amin-93943b1b0)
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshil7426&theme=tokyo-night&hide_border=true" />
+</div>
 
----
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <p>(Enable snake animation via GitHub Actions)</p>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Harshil7426/Harshil7426/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshil7426&theme=tokyonight&hide_border=true" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <br/>
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<br/><br/>
+
+<hr/>
 
 <div align="center">
 
-### ⚡ Quote I follow
-
+### ⚡ Quote I follow  
 > Build → Break → Learn → Repeat.
 
 </div>
-
-
