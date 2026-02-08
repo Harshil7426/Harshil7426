@@ -92,7 +92,6 @@
 <img width="420" src="https://raw.githubusercontent.com/Harshil7426/Harshil7426/main/assets/streak.svg" />
 <img width="360" src="https://raw.githubusercontent.com/Harshil7426/Harshil7426/main/assets/top-langs.svg" />
 
-
 </div>
 
 
