@@ -1,53 +1,126 @@
-# Hi, I’m Harshil Amin 👋
+```md
+<!-- ========================= -->
+<!--        README START       -->
+<!-- ========================= -->
 
-I’m a **3rd-year B.Tech IT student at NMIMS MPSTME**.  
-I enjoy building practical ML projects, experimenting with deep learning, and working on ideas that feel “real-world”.
+<div align="center">
 
----
+```
 
-## What I’m working on right now 🧠
-- **Malware Detection using Hybrid ML**
-  - Random Forest + LightGBM + DNN (static malware analysis)
-- **Planning next**
-  - Autonomous drone navigation using Computer Vision
+██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗██╗██╗
+██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██║██║
+███████║███████║██████╔╝███████╗███████║██║██║
+██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║██║██║
+██║  ██║██║  ██║██║  ██║███████║██║  ██║██║███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝
 
----
+````
 
-## Tech I use 🧰
-**ML / Data**
-- Python, NumPy, Pandas  
-- Scikit-learn, TensorFlow, LightGBM  
-- Matplotlib  
+### Harshil Amin  
+🎓 B.Tech IT @ NMIMS MPSTME (3rd Year)  
+Building ML projects • Exploring Computer Vision • Learning by doing  
 
-**Tools**
-- Jupyter Notebook  
-- Git & GitHub  
-- Linux  
-- HTML/CSS  
+</div>
 
 ---
 
-## GitHub Highlights 📊
-![Harshil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight)
+## 🧠 Current Focus
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight)
-
----
-
-## Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=Harshil7426&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+```txt
+[✓] Malware Detection (Hybrid ML)
+[ ] Autonomous Drone Navigation (CV)  → next build
+[ ] More real-world projects → always
+````
 
 ---
 
-## Contributions 🔝
-![](https://github-contributor-stats.vercel.app/api?username=Harshil7426&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## ⚙️ Projects I’m working on
+
+### 🛡 Malware Detection using Hybrid ML
+
+* Static malware analysis
+* Hybrid approach: Random Forest + LightGBM + DNN
+* Goal: accurate + stable predictions
+
+### 🛰 Planned: Autonomous Drone Navigation (CV)
+
+* Real-time vision pipeline
+* Object detection + navigation logic
 
 ---
 
-## Let’s connect 📬
-📧 Email: **harshilaminjijs@gmail.com**  
-💼 LinkedIn: **https://www.linkedin.com/in/harshil-amin-93943b1b0**
+## 🧰 Toolbox
+
+```txt
+Python | NumPy | Pandas | Scikit-learn | TensorFlow | LightGBM
+Matplotlib | Git | GitHub | Linux | Jupyter | HTML/CSS
+```
 
 ---
 
-> “Build small. Improve daily. Repeat.”
+## 📊 Live GitHub Dashboard (Dynamic)
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Harshil7426&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil7426&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies (Dynamic)
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harshil7426&theme=radical&no-frame=true&margin-w=10" />
+
+</div>
+
+---
+
+## 🔥 Contribution Graph (Dynamic)
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshil7426&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Progress (dynamic look)
+
+```txt
+ML Projects        ███████████░░░░░░░░  60%
+Deep Learning      █████████░░░░░░░░░░  50%
+Computer Vision    ███████░░░░░░░░░░░░  35%
+Consistency        ████████████░░░░░░░  70%
+```
+
+---
+
+## 📬 Connect with me
+
+📧 Email: [harshilaminjijs@gmail.com](mailto:harshilaminjijs@gmail.com)
+💼 LinkedIn: [https://www.linkedin.com/in/harshil-amin-93943b1b0](https://www.linkedin.com/in/harshil-amin-93943b1b0)
+
+---
+
+<div align="center">
+
+### ⚡ Quote I follow
+
+> Build → Break → Learn → Repeat.
+
+</div>
+
+<!-- ========================= -->
+
+<!--         README END        -->
+
+<!-- ========================= -->
+
+```
+```
