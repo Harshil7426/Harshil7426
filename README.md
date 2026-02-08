@@ -33,7 +33,7 @@ Fun fact: <b>I like building projects that actually run, not just look good on p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,tensorflow,git,github,vscode,jupyter,linux,githubpages" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,tensorflow,git,github,vscode,linux" />
 
 <br/><br/>
 
@@ -46,6 +46,10 @@ Fun fact: <b>I like building projects that actually run, not just look good on p
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+
+
 
 </div>
 
