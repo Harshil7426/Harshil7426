@@ -1,21 +1,23 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Harshil7426.Harshil7426" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Hi+There!;+I'm+Harshil+Amin!;+AI%2FML+%7C+Computer+Vision+%7C+GenAI" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Hi+There!;+I'm+Harshil+Amin!" />
 </h1>
 
-<h3 align="center">B.Tech IT Student @ NMIMS MPSTME • 3rd Year</h3>
+<h3 align="center">B.Tech IT Student @ NMIMS MPSTME • 4th Year</h3>
 
 <br/>
 
 <div align="center">
 
-I’m currently working on <b>XAI-guided LLM Hallucination Detection & Mitigation</b>  
-I’m currently learning <b>Deep Learning + Research workflows</b>  
-Ask me about <b>Machine Learning, Python, CV basics</b>  
-Fun fact: <b>I like building projects that actually run, not just look good on paper</b>
+I am passionate about building intelligent systems using Artificial Intelligence and Machine Learning.
+
+My interests include <b>Machine Learning, Deep Learning, Generative AI, Computer Vision, and Explainable AI.</b>
+
+I enjoy developing practical AI applications, contributing to research, and exploring new technologies.
 
 </div>
+
 
 <br/>
 
